@@ -1,12 +1,13 @@
 <?php
     include ('includes/arrays.php');
+    $companyName = "Krste Gosharevski";
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title><?php echo TITLE;?></title>
     <link href="../assets/style/style.css" rel="stylesheet">
 </head>
 <body id="final-example">

@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #f5f4f1 url('/Website/assets/img/bg.jpg');
+    background: #f5f4f1 url('../img/bg.jpg');
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 20px;
@@ -74,7 +74,7 @@ hr {
     border: none;
     height: 18px;
     width: 114px;
-    background: url('Website/assets/img/hr.png') center center no-repeat;
+    background: url('../img/hr.png') center center no-repeat;
     margin: 20px auto;
 }
 

@@ -17,11 +17,10 @@
 
         <em>Sunday - Monday</em><br>
         Closed! <br><br>
-
     </div>
 </div>
 
-<small>&copy; 2024 Krste Gosharevski</small>
+<small>&copy; <?php echo date("Y"); ?> - <?php echo $companyName; ?></small>
 
 </div>
 </div>
